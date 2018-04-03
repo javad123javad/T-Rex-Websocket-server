@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/SSL">
+        <file>localhost.key</file>
+        <file>localhost.cert</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>res/GREEN.png</file>
+        <file>res/RED.png</file>
+        <file>res/search.png</file>
+    </qresource>
+</RCC>
